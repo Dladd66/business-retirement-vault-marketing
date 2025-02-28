@@ -11,7 +11,9 @@ This document provides a detailed timeline and execution plan for the complete B
 ### Phase 2: Credibility Building 🔄 IN PROGRESS
 - ⏭️ Client success story posts (NEXT STEP)
 - ✅ Initial email announcement to list
-- 🔄 Text message campaign to contact list (IN PROGRESS)
+- ✅ Text message campaign to existing clients (COMPLETED)
+- ✅ Text message campaign to recent leads (1-30 days) (COMPLETED)
+- 🔄 Text message campaign to older leads (IN PROGRESS)
 
 ### Phase 3: Guide Promotion & Sales 📅 UPCOMING
 - Book/Guide promotion posts
@@ -39,7 +41,7 @@ This document provides a detailed timeline and execution plan for the complete B
 
 #### Friday
 - ⏭️ Client success story posts (Karen or Alex)
-- 🔄 First batch of text messages to contact list
+- ✅ First batch of text messages to contact list (1-30 day leads and existing clients)
 
 #### Weekend
 - Engage with comments and responses
@@ -80,9 +82,13 @@ This document provides a detailed timeline and execution plan for the complete B
 
 ## Text Message Campaign Execution Plan
 
-### Day 1: Initial Send to Recent Leads
+### Day 1: Initial Send to Recent Leads ✅ COMPLETED
 Target: Leads from past 1-30 days
 Template: "Hey {{first_name}}, just released my guide on the Self Banking System I've been using with clients. Learn how to build tax-free wealth with zero market risk for only $9.99. Get it here: [LINK]"
+
+### Day 1: Send to Existing Clients ✅ COMPLETED
+Target: Previous clients
+Template: "Hey {{first_name}}, I've just published a guide on the Self Banking System we've implemented for your financial future. Many clients tell me they wish they had something to share with friends/family who ask about their strategy. I'd be happy to send you a complimentary copy!"
 
 ### Day 2: Send to Mid-Range Leads
 Target: Leads from past 1-6 months
